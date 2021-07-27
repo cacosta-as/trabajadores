@@ -1,5 +1,5 @@
 # trabajadores
-Scripts necesarios en la base de datos
+Scripts para la base de datos
 CREATE SCHEMA `cap` ;
 
 CREATE TABLE `cap`.`trabajadores` (
